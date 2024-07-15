@@ -10,3 +10,8 @@ print("x and y:", and_result)
 print("x or y:", or_result)
 print("not x:", not_result_x)
 print("not y:", not_result_y)
+a =5 
+b = 5
+x = (a==b)
+print (not x )
+print (not (a<b))
